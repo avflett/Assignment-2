@@ -17,3 +17,15 @@ print(f"this year:", this_year, "type:", type)
 next_year = 2026
 type = bool
 print(f"next year:", next_year, "type:", type)
+
+# MATHEMATICAL OPERATIONS
+
+# LISTS
+
+# TUPLES
+provinces_and_territories = ['MB', 'AB', 'NU', 'ON']
+print(provinces_and_territories)
+
+# DICTIONARIES
+
+# SETS
